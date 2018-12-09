@@ -1,0 +1,12 @@
+﻿  barrier.cpp
+  button.cpp
+c:\users\jeffr\documents\visual studio 2017\projects\colorsion\colorsion\button.cpp(10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jeffr\documents\visual studio 2017\projects\colorsion\colorsion\button.cpp(12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jeffr\documents\visual studio 2017\projects\colorsion\colorsion\button.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  circleO.cpp
+  colorO.cpp
+  main.cpp
+c:\users\jeffr\documents\visual studio 2017\projects\colorsion\colorsion\main.cpp(97): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+  Generating Code...
+  Colorsion.vcxproj -> C:\Users\jeffr\Documents\Visual Studio 2017\Projects\Colorsion\x64\Debug\Colorsion.exe
